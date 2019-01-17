@@ -1,8 +1,11 @@
 # Docker-Nginx-PHP5.6-MySQL5.6
+Maikel Suhendra Saputra
+155410064
 Build image
 -----------
 
 ```bash
+file lengkap di zip 
 
 sudo apt-get install make
 ```
